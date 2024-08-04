@@ -144,7 +144,7 @@ class ProdutoSeeder extends Seeder
             'nome' => 'Pastel de Queijo',
             'descricao' => 'Pastel recheado com queijo muçarela derretido e temperos.',
             'preco' => 12.5,
-            'imagen' => 'pastel_03.jpg',
+            'imagen' => 'pastel_04.jpg',
             'disponivel' => 1,
             'categoria_id' => 5
         ]);
